@@ -1,4 +1,4 @@
-```yaml
+
    name: Python Tests
 
    on:
@@ -27,4 +27,4 @@
          
          - name: Run tests
            run: pytest -v
-   ```
+   
